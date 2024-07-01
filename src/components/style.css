@@ -1,0 +1,14 @@
+body{
+    background-color: whitesmoke;
+}
+.todo-lsit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+
+.number{
+    color: black;
+}
