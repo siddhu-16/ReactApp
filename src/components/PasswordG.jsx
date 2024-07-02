@@ -34,7 +34,7 @@ function PasswordG() {
         <>
         
         <div className=" w-full max-w-md mx-auto border border-gray-60  content-center rounded-lg p-5 backdrop-blur-sm bg-white/30">
-            <div >
+            {/* <div >
                 <input
                     type='text'
                     value={password}
@@ -47,7 +47,7 @@ function PasswordG() {
                 onClick={copytoClip} className="w-full bg-blue-600 text-white px-4 py-3 rounded-lg"
                 >Copy</button>
 
-            </div>
+            </div> */}
             <div>
                 <input
                     type="range"
